@@ -21,5 +21,14 @@
     <ClCompile Include="2_1.cpp">
       <Filter>소스 파일\Part2</Filter>
     </ClCompile>
+    <ClCompile Include="2_2(Ref).cpp">
+      <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
+    <ClCompile Include="2_3(Problems).cpp">
+      <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
+    <ClCompile Include="2_4(Ref2).cpp">
+      <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
