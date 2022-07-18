@@ -16,6 +16,30 @@
     <Filter Include="소스 파일\Part2">
       <UniqueIdentifier>{06f79784-9c89-45fb-8cfb-cd69fb08a2e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Part3">
+      <UniqueIdentifier>{5b176bf3-4e69-4fda-9a1e-79ef8d38f976}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part3\Car">
+      <UniqueIdentifier>{899ff950-13d4-4b51-bc92-82e37bff4e22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part3\Calculator">
+      <UniqueIdentifier>{54d8c7d1-06ed-4d69-965c-3aafdb884433}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part3\Printer">
+      <UniqueIdentifier>{373340d8-bf77-451f-b81b-097aeedc0dcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part3\Apple">
+      <UniqueIdentifier>{ac0144ac-6c08-49ac-a5f1-3ec9b7bb4875}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part4">
+      <UniqueIdentifier>{4aa62672-06b3-4967-9249-ca65c6eb6033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part4\Rectangle">
+      <UniqueIdentifier>{68c1cca6-db47-4c06-a8a6-6e484e23675c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part4\Point">
+      <UniqueIdentifier>{5cb49f4d-6747-4b7c-8fdc-97ff27655f4a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2_1.cpp">
@@ -30,5 +54,64 @@
     <ClCompile Include="2_4(Ref2).cpp">
       <Filter>소스 파일\Part2</Filter>
     </ClCompile>
+    <ClCompile Include="2_5(newdel).cpp">
+      <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
+    <ClCompile Include="3_1.cpp">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="3_2.cpp">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>소스 파일\Part3\Car</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingMain.cpp">
+      <Filter>소스 파일\Part3\Car</Filter>
+    </ClCompile>
+    <ClCompile Include="calculator.cpp">
+      <Filter>소스 파일\Part3\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="mainCal.cpp">
+      <Filter>소스 파일\Part3\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Printer.cpp">
+      <Filter>소스 파일\Part3\Printer</Filter>
+    </ClCompile>
+    <ClCompile Include="mainPrinter.cpp">
+      <Filter>소스 파일\Part3\Printer</Filter>
+    </ClCompile>
+    <ClCompile Include="FruitSaleSim1.cpp">
+      <Filter>소스 파일\Part3\Apple</Filter>
+    </ClCompile>
+    <ClCompile Include="4_1.cpp">
+      <Filter>소스 파일\Part4</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>소스 파일\Part4\Point</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>소스 파일\Part4\Rectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleFaultFind.cpp">
+      <Filter>소스 파일\Part4\Rectangle</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Car.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Cal.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Printer.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

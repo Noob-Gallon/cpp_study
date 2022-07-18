@@ -28,12 +28,16 @@ int main(void)
 {
 	int num1 = 1;
 	int& num2 = RefRetFuncOne(num1); // 참조자를 변환하는 함수는 참조자의 선언에서 참조자를 초기화 할 수 있다.
+	int numx = RefRetFuncOne(num1); // 참조자형 반환 함수를 일반 변수가 전달받을 수 있다.
 
-	num1++;
+	num1 += 3;
 	num2 += 100;
+	numx += 7;
 
 	cout << "num1: " << num1 << endl;
 	cout << "num2: " << num2 << endl;
+	cout << "numx: " << numx << endl;
+	cout << "\n\n\n";
 
 	// ------------------------------ //
 
