@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\kodeJun_C++">
       <UniqueIdentifier>{0b7ed3b4-99ae-4c9b-bed8-356fc11020c1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_21_">
+      <UniqueIdentifier>{d4777f54-e0b1-4f90-aa89-628c91efb850}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2_1.cpp">
@@ -177,6 +180,27 @@
     <ClCompile Include="_18_class_object_constructor.cpp">
       <Filter>소스 파일\kodeJun_C++</Filter>
     </ClCompile>
+    <ClCompile Include="_19_sll_by_object.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="_19_sll_by_object2.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="_20_circle_by_object.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="_21_class_member_function.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintData.cpp">
+      <Filter>소스 파일\kodeJun_C++\_21_</Filter>
+    </ClCompile>
+    <ClCompile Include="_21_split_cpp_header.cpp">
+      <Filter>소스 파일\kodeJun_C++\_21_</Filter>
+    </ClCompile>
+    <ClCompile Include="_22_private_member.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Car.h">
@@ -193,6 +217,9 @@
     </ClInclude>
     <ClInclude Include="Point.h">
       <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintData.h">
+      <Filter>소스 파일\kodeJun_C++\_21_</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
