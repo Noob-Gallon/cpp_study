@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++">
+      <UniqueIdentifier>{fef8a584-720a-4774-b516-23c7f24ae899}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_21_">
+      <UniqueIdentifier>{8c7f2943-8f55-4d70-aea3-87d558a64902}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_23_">
+      <UniqueIdentifier>{992bb5a4-f577-4f0d-a658-4170cc1998a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_24_vector">
+      <UniqueIdentifier>{8cfb4a6e-ea4d-41fd-be83-80ecfc529726}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\new_study\_10_array_as_function_parameter.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_11_function_pointer.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_12_function_overloading.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_13_inline_function.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_14_reference_variable.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_15_reference_return.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_16_default_parameter.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_17_OOP.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_18_class_object_constructor.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_19_sll_by_object.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_19_sll_by_object2.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_20_circle_by_object.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_21_class_member_function.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_22_private_member.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_7_for_loop.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_7_logical_op.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_8_char_type_library.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_9_text_file.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\PrintData.cpp">
+      <Filter>소스 파일\kodeJun_C++\_21_</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_21_split_cpp_header.cpp">
+      <Filter>소스 파일\kodeJun_C++\_21_</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_23_2.cpp">
+      <Filter>소스 파일\kodeJun_C++\_23_</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_23_getter_setter_.cpp">
+      <Filter>소스 파일\kodeJun_C++\_23_</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_2_type_casting_bool.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_1_initialize_digit_bool.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_0_climits.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_3_Array.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_4_string.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_5_new_delete.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="..\new_study\_6_array_new_delete.cpp">
+      <Filter>소스 파일\kodeJun_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="_24_vector.cpp">
+      <Filter>소스 파일\kodeJun_C++\_24_vector</Filter>
+    </ClCompile>
+    <ClCompile Include="_24_ex.cpp">
+      <Filter>소스 파일\kodeJun_C++\_24_vector</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\new_study\PrintData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
