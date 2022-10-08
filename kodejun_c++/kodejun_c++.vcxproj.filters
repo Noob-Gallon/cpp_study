@@ -25,6 +25,24 @@
     <Filter Include="소스 파일\kodeJun_C++\_24_vector">
       <UniqueIdentifier>{8cfb4a6e-ea4d-41fd-be83-80ecfc529726}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_25_vector2">
+      <UniqueIdentifier>{07da056f-4f5c-45e4-85e5-83b4ecde7d30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_36_pointer">
+      <UniqueIdentifier>{44fa585b-99d1-4f9e-a7f5-7700baf0d20b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_37_Smart_pointer">
+      <UniqueIdentifier>{9f8ababc-dea0-4445-8921-1adeb98e97bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_38_this_const_pointer">
+      <UniqueIdentifier>{150be7ae-11d3-493d-a184-092c1e1c91cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_39_const_method">
+      <UniqueIdentifier>{0a09b459-27fc-4ed9-8ba8-8546bc4c7d74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_40_destructor">
+      <UniqueIdentifier>{359afc63-979a-4694-812b-77bdce80586e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\new_study\_10_array_as_function_parameter.cpp">
@@ -119,6 +137,36 @@
     </ClCompile>
     <ClCompile Include="_24_ex.cpp">
       <Filter>소스 파일\kodeJun_C++\_24_vector</Filter>
+    </ClCompile>
+    <ClCompile Include="_25_vector_operators.cpp">
+      <Filter>소스 파일\kodeJun_C++\_25_vector2</Filter>
+    </ClCompile>
+    <ClCompile Include="_25_ex.cpp">
+      <Filter>소스 파일\kodeJun_C++\_25_vector2</Filter>
+    </ClCompile>
+    <ClCompile Include="_25_vector_two_dimension.cpp">
+      <Filter>소스 파일\kodeJun_C++\_25_vector2</Filter>
+    </ClCompile>
+    <ClCompile Include="_36_pointer.cpp">
+      <Filter>소스 파일\kodeJun_C++\_36_pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="_36_array_pointer.cpp">
+      <Filter>소스 파일\kodeJun_C++\_36_pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="_37_smart_pointer.cpp">
+      <Filter>소스 파일\kodeJun_C++\_37_Smart_pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="_38_this.cpp">
+      <Filter>소스 파일\kodeJun_C++\_38_this_const_pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="_38_const_pointer.cpp">
+      <Filter>소스 파일\kodeJun_C++\_38_this_const_pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="_39_const_method.cpp">
+      <Filter>소스 파일\kodeJun_C++\_39_const_method</Filter>
+    </ClCompile>
+    <ClCompile Include="_40_destructor.cpp">
+      <Filter>소스 파일\kodeJun_C++\_40_destructor</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
