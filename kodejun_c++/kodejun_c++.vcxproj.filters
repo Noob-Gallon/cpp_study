@@ -40,8 +40,26 @@
     <Filter Include="소스 파일\kodeJun_C++\_39_const_method">
       <UniqueIdentifier>{0a09b459-27fc-4ed9-8ba8-8546bc4c7d74}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\kodeJun_C++\_40_destructor">
+    <Filter Include="소스 파일\kodeJun_C++\_41_destructor">
       <UniqueIdentifier>{359afc63-979a-4694-812b-77bdce80586e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_44_static_function">
+      <UniqueIdentifier>{7709fca5-5e14-462e-8466-42fe62585319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_45_Singleton_pattern">
+      <UniqueIdentifier>{80a4220d-bbff-4666-a2d1-9aa0dd2a0fa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_50_inheritance">
+      <UniqueIdentifier>{86079120-3870-46ec-8f03-611fc25b39bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_49_inheritance">
+      <UniqueIdentifier>{6df185b5-a660-4a20-bac7-16e0c9ed71eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_48_friend">
+      <UniqueIdentifier>{317b9319-0db5-4fa7-857d-36e78ceacc0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\kodeJun_C++\_43_copy_constructor">
+      <UniqueIdentifier>{b26ce3e2-0afd-4282-bdf2-9c25fab2b93e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -165,8 +183,32 @@
     <ClCompile Include="_39_const_method.cpp">
       <Filter>소스 파일\kodeJun_C++\_39_const_method</Filter>
     </ClCompile>
-    <ClCompile Include="_40_destructor.cpp">
-      <Filter>소스 파일\kodeJun_C++\_40_destructor</Filter>
+    <ClCompile Include="_41_destructor.cpp">
+      <Filter>소스 파일\kodeJun_C++\_41_destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="_45_Singleton_pattern.cpp">
+      <Filter>소스 파일\kodeJun_C++\_45_Singleton_pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="_44_static_function.cpp">
+      <Filter>소스 파일\kodeJun_C++\_44_static_function</Filter>
+    </ClCompile>
+    <ClCompile Include="_49_inheritance.cpp">
+      <Filter>소스 파일\kodeJun_C++\_49_inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="_50_inheritance_part2.cpp">
+      <Filter>소스 파일\kodeJun_C++\_50_inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="_50_multiple_inheritance.cpp">
+      <Filter>소스 파일\kodeJun_C++\_50_inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="_48_friend.cpp">
+      <Filter>소스 파일\kodeJun_C++\_48_friend</Filter>
+    </ClCompile>
+    <ClCompile Include="_43_copy_constructor.cpp">
+      <Filter>소스 파일\kodeJun_C++\_43_copy_constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="_43_copy_constructor2.cpp">
+      <Filter>소스 파일\kodeJun_C++\_43_copy_constructor</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
